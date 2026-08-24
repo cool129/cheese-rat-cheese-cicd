@@ -4,10 +4,11 @@
 
 ![image](https://github.com/user-attachments/assets/020c6ee5-b7c6-4b74-b4b3-c109bb22aebc)
 
+# Play Game Here: https://cheese-rat-cheese.vercel.app/
 
 ## Features
 
-- 🎮 Fully functional Tic Tac Toe game
+- 🎮 Fully functional Cheese Rat Cheese game
 - 📊 Score tracking for 🐁, 🧀, and draws
 - 📜 Game history with timestamps
 - 🏆 Highlights winning combinations
