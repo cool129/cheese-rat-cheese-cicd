@@ -41,7 +41,7 @@ src/
 
 The game implements the following rules:
 
-1. X goes first, followed by O
+1. 🐁 goes first, followed by 🧀
 2. The first player to get 3 of their marks in a row (horizontally, vertically, or diagonally) wins
 3. If all 9 squares are filled and no player has 3 marks in a row, the game is a draw
 4. Winning combinations are highlighted
