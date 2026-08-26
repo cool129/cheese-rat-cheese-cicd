@@ -58,8 +58,8 @@ The game implements the following rules:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/cool129/django-todo-cicd.git
-   cd django-todo-cicd
+   git clone https://github.com/cool129/cheese-rat-cheese-cicd.git
+   cd cheese-rat-cheese-cicd
    ```
 
 2. Install dependencies:
