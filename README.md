@@ -4,10 +4,11 @@
 
 ![image](https://github.com/user-attachments/assets/020c6ee5-b7c6-4b74-b4b3-c109bb22aebc)
 
+# Play Game Here: https://cheese-rat-cheese.vercel.app/
 
 ## Features
 
-- 🎮 Fully functional Tic Tac Toe game
+- 🎮 Fully functional Cheese Rat Cheese game
 - 📊 Score tracking for 🐁, 🧀, and draws
 - 📜 Game history with timestamps
 - 🏆 Highlights winning combinations
@@ -40,7 +41,7 @@ src/
 
 The game implements the following rules:
 
-1. X goes first, followed by O
+1. 🐁 goes first, followed by 🧀
 2. The first player to get 3 of their marks in a row (horizontally, vertically, or diagonally) wins
 3. If all 9 squares are filled and no player has 3 marks in a row, the game is a draw
 4. Winning combinations are highlighted
@@ -57,8 +58,8 @@ The game implements the following rules:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/devsecops-demo.git
-   cd devsecops-demo
+   git clone https://github.com/cool129/cheese-rat-cheese-cicd.git
+   cd cheese-rat-cheese-cicd
    ```
 
 2. Install dependencies:
