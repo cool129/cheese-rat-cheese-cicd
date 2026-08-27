@@ -78,5 +78,5 @@ kubectl get ingress
 View logs:
 
 ```bash
-kubectl logs -l app=tic-tac-toe
+kubectl logs -l app=cheese-rat-cheese
 ```
