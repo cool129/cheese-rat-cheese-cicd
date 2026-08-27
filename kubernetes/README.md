@@ -1,6 +1,6 @@
-# Kubernetes Deployment for Tic Tac Toe
+# Kubernetes Deployment for Cheese Rat Cheese
 
-This directory contains Kubernetes manifests for deploying the Tic Tac Toe application.
+This directory contains Kubernetes manifests for deploying the Cheese Rat Cheese application.
 
 ## Components
 
@@ -43,17 +43,17 @@ kubectl apply -f kubernetes/ingress.yaml
 If you're using Minikube:
 
 ```bash
-minikube service tic-tac-toe --url
+minikube service cheese-rat-cheese --url
 ```
 
-If you've set up the Ingress with a domain, access it at the configured domain (e.g., tic-tac-toe.example.com).
+If you've set up the Ingress with a domain, access it at the configured domain (e.g., cheese-rat-cheese.example.com).
 
 ## Scaling
 
 To scale the application:
 
 ```bash
-kubectl scale deployment tic-tac-toe --replicas=5
+kubectl scale deployment cheese-rat-cheese --replicas=5
 ```
 
 ## Updating
@@ -61,7 +61,7 @@ kubectl scale deployment tic-tac-toe --replicas=5
 When a new image is pushed to the registry, update the deployment:
 
 ```bash
-kubectl rollout restart deployment tic-tac-toe
+kubectl rollout restart deployment cheese-rat-cheese
 ```
 
 ## Monitoring
@@ -78,5 +78,5 @@ kubectl get ingress
 View logs:
 
 ```bash
-kubectl logs -l app=tic-tac-toe
+kubectl logs -l app=cheese-rat-cheese
 ```
