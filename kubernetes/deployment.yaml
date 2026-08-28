@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: Cheese-Rat-Cheese
-        image: ghcr.io/cool129/cheese-rat-cheese-cicd:sha-e661729c0da8424207a348425e6d0089af46625b
+        image: ghcr.io/cool129/cheese-rat-cheese-cicd:sha-e09606bc219de69baee4ca8f469ffa1955d41f96
         # Image will be automatically updated by CI/CD pipeline
         imagePullPolicy: Always
         ports:
